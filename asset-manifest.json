@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/trabalholp2/static/css/main.d221dc40.css",
+    "main.js": "/trabalholp2/static/js/main.ca194387.js",
+    "static/media/pagina404.png": "/trabalholp2/static/media/pagina404.4bf0805d8d55a31c5142.png",
+    "index.html": "/trabalholp2/index.html",
+    "main.d221dc40.css.map": "/trabalholp2/static/css/main.d221dc40.css.map",
+    "main.ca194387.js.map": "/trabalholp2/static/js/main.ca194387.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.ca194387.js"
+  ]
+}
