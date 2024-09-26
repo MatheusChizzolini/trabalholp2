@@ -49,7 +49,6 @@ export default function FormCadProdutos(props) {
                 });
                 props.setExibirTabela(true);
             }
-
         }
         else{
             setFormValidado(true);
